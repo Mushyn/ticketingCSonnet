@@ -69,7 +69,7 @@ Il y a toujours du rouge
 ## Étape 7 : Documentation
 
 ```
-Peux tu ajouter un fichier redmi Pour l'installation
+Peux tu ajouter un fichier readme Pour l'installation
 ```
 
 ## Conseils pour l'Utilisation des Prompts
