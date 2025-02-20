@@ -12,7 +12,7 @@ Application de gestion de tickets développée avec Next.js, TypeScript et Tailw
 1. Cloner le projet :
 
 ```bash
-git clone <url-du-repo>
+git clone https://github.com/Mushyn/ticketingCSonnet.git
 cd ticket-system
 ```
 
